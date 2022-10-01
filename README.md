@@ -49,4 +49,17 @@
 * o ay acentenin kazandığı toplam komisyon
 
 
+# Outputs:
+
+![Adsız](https://user-images.githubusercontent.com/65908597/193427609-b0749c4c-14f5-4209-9281-0ebd380bf51c.png)
+![Adsız1](https://user-images.githubusercontent.com/65908597/193427612-26fab909-c763-4e8b-9cf7-ca33e3549398.png)
+![Adsız2](https://user-images.githubusercontent.com/65908597/193427618-f81f04c5-f9ba-4829-b927-5e248e058a8c.png)
+![Adsız3](https://user-images.githubusercontent.com/65908597/193427624-15aa1d39-61bc-4512-bcd0-fc5f01f41de4.png)
+![Adsız4](https://user-images.githubusercontent.com/65908597/193427625-05d9d71f-bffa-4831-ae2d-9bd6b0965d57.png)
+
+
+
+
+
+
 
